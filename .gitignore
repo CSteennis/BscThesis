@@ -127,3 +127,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode
+.vscode/
+
+# pdf
+*.pdf
+
+# tar, zip
+*.zip
+*.tgz
+
+# png
+*.png
+
+# thesis template
+bachthesis2019/
+
+# txt
+*.txt
+
+# dataset
+**/dataset/
