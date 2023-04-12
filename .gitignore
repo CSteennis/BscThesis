@@ -137,6 +137,7 @@ dmypy.json
 # tar, zip
 *.zip
 *.tgz
+*.tar.gz
 
 # png
 *.png
@@ -144,8 +145,12 @@ dmypy.json
 # thesis template
 bachthesis2019/
 
+# thesis poster
+poster*
+
 # txt
 *.txt
+!requirements.txt
 
 # dataset
 **/dataset/
