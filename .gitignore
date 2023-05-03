@@ -149,8 +149,8 @@ bachthesis2019/
 poster*
 
 # txt
-*.txt
-!requirements.txt
+# *.txt
+# !requirements.txt
 
 # dataset
 **/dataset/
